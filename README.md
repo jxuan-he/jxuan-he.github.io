@@ -1,6 +1,7 @@
 # Jixuan He · 个人主页
 
-极简学术主页：纯 HTML + CSS，无构建步骤，无第三方依赖，可直接托管在 GitHub Pages。
+极简学术主页：纯 HTML + CSS，无构建步骤，无外部依赖（字体已自托管在 `assets/fonts/`，
+国内访问不依赖 Google Fonts），可直接托管在 GitHub Pages。
 
 线上地址（部署后）：`https://jxuan-he.github.io`
 
