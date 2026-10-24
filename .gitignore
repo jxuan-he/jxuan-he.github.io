@@ -1,6 +1,8 @@
-# 私人照片，请勿上传到 GitHub
+# 原图（已压缩进 assets/），请勿上传到 GitHub
 me_and_my_girlfriend.jpg
 myself.png
+club.jpg
+teaching.jpeg
 
 # 系统文件
 .DS_Store
